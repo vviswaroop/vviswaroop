@@ -85,12 +85,23 @@ I’m especially interested in applying AI to:
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black)
 
-### AI Tools & Interests
-![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge)
-![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge)
-![Replit](https://img.shields.io/badge/Replit-F26207?style=for-the-badge&logo=replit&logoColor=white)
+### AI-Native Engineering Focus
+
+![LLMs](https://img.shields.io/badge/LLM%20Workflows-111827?style=for-the-badge)
+![AI Automation](https://img.shields.io/badge/AI%20Automation-4F46E5?style=for-the-badge)
+![Agentic Systems](https://img.shields.io/badge/Agentic%20Systems-7C3AED?style=for-the-badge)
+![Platform Intelligence](https://img.shields.io/badge/Platform%20Intelligence-0F766E?style=for-the-badge)
+![AI Assisted DevOps](https://img.shields.io/badge/AI--Assisted%20DevOps-DC2626?style=for-the-badge)
+
+<br />
+
+**Areas I’m exploring and applying:**
+
+- AI-assisted infrastructure design and review
+- LLM-powered documentation, runbooks, and operational knowledge systems
+- Agentic workflows for CI/CD, incident response, and platform operations
+- AI-enhanced internal developer platforms
+- Secure and governed adoption of AI in engineering workflows
 
 </div>
 
