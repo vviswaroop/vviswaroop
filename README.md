@@ -1,99 +1,117 @@
-# Hi, I'm Viswaroop Vadlamudi 👋
+<div align="center">
 
-I’m an **AI-native Platform, DevOps, and DevSecOps Engineer** focused on building secure, scalable, and developer-friendly cloud infrastructure.
+# 👋 Hi, I'm Viswaroop Vadlamudi
 
-My core background is in **AWS, Kubernetes, GitOps, CI/CD, DevSecOps, and observability** — but I’m also deeply interested in how **AI tools, LLMs, and automation agents** can reshape infrastructure engineering, developer productivity, security operations, and platform delivery.
+### AI-Native Platform Engineer · DevOps · DevSecOps · Cloud Infrastructure
 
-I’m not just exploring AI conceptually — I’m actively learning how to use AI tools hands-on to improve engineering workflows, automate repetitive tasks, accelerate documentation, generate infrastructure patterns, and build smarter internal platforms.
+I build secure, scalable, developer-friendly platforms — and I’m exploring how AI can transform the way infrastructure is designed, automated, operated, and secured.
 
----
+<br />
 
-## 🚀 What I’m Focused On
+[![GitHub](https://img.shields.io/badge/GitHub-vviswaroop-181717?style=for-the-badge&logo=github)](https://github.com/vviswaroop)
+[![Email](https://img.shields.io/badge/Email-hello%40viswaroop.dev-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@viswaroop.dev)
+[![Focus](https://img.shields.io/badge/Focus-AI%20%2B%20Platform%20Engineering-7c3aed?style=for-the-badge)](#)
 
-- Building reliable cloud-native platforms on AWS and Kubernetes
-- Automating infrastructure workflows using GitOps and CI/CD
-- Applying DevSecOps practices across cloud, pipelines, and Kubernetes
-- Using AI tools to improve developer productivity and platform operations
-- Exploring AI-assisted infrastructure automation, documentation, testing, and troubleshooting
-- Designing internal developer platforms that make engineering teams faster and safer
+</div>
 
 ---
 
-## 🧠 AI + Platform Engineering
+## 🧭 About Me
 
-I’m especially interested in the intersection of:
+I’m a **Platform, DevOps, and DevSecOps Engineer** with hands-on experience across **AWS, Kubernetes, GitOps, CI/CD, security automation, and observability**.
 
-- AI-assisted DevOps workflows
-- Agentic automation for infrastructure tasks
-- AI-generated documentation and runbooks
-- LLM-powered troubleshooting and incident response
-- AI-assisted CI/CD and GitHub Actions
-- Cloud cost, security, and reliability automation
-- Internal developer platforms enhanced with AI
+What makes my current journey different: I’m actively building toward becoming an **AI-native infrastructure engineer** — someone who not only understands cloud platforms deeply, but also knows how to use **AI tools, LLMs, and automation agents** to make engineering teams faster, safer, and more effective.
 
-My goal is to grow into an engineer who can combine **deep infrastructure expertise** with **modern AI capabilities** to build smarter, more scalable engineering systems.
+I’m especially interested in applying AI to:
+
+- Infrastructure automation
+- DevSecOps workflows
+- CI/CD optimization
+- Documentation and runbooks
+- Incident troubleshooting
+- Internal developer platforms
+- Cloud reliability and cost intelligence
+
+---
+
+## ⚡ My Engineering Identity
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>☁️ Platform Engineering</h3>
+      <p>Building reusable cloud-native platforms that help product teams deploy faster with consistency, security, and reliability.</p>
+    </td>
+    <td width="50%">
+      <h3>🔐 DevSecOps</h3>
+      <p>Embedding security into cloud infrastructure, Kubernetes, CI/CD pipelines, identity, secrets, and operational workflows.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🤖 AI-Native Automation</h3>
+      <p>Exploring practical AI workflows for infrastructure generation, documentation, troubleshooting, platform operations, and developer productivity.</p>
+    </td>
+    <td width="50%">
+      <h3>🚀 GitOps & Reliability</h3>
+      <p>Designing declarative, automated, observable delivery systems using GitOps, Kubernetes, and modern CI/CD patterns.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Cloud & Infrastructure**  
-AWS · EKS · IAM · VPC · Terraform · AWS CDK
+<div align="center">
 
-**Kubernetes & GitOps**  
-Kubernetes · Helm · Kustomize · ArgoCD · Flux · Istio · NGINX · Gateway API
+### Cloud & Infrastructure
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
+![AWS CDK](https://img.shields.io/badge/AWS%20CDK-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-**CI/CD & Automation**  
-GitHub Actions · Jenkins · Python · Bash · YAML
+### GitOps, Delivery & Automation
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
+![Flux](https://img.shields.io/badge/Flux-5468FF?style=for-the-badge&logo=flux&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
+![Kustomize](https://img.shields.io/badge/Kustomize-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
-**DevSecOps & Identity**  
-OAuth2 · Ory Hydra · Secrets Management · Policy-as-Code · Security Automation
+### DevSecOps, Identity & Observability
+![Ory Hydra](https://img.shields.io/badge/Ory%20Hydra-5522FA?style=for-the-badge)
+![OpenSearch](https://img.shields.io/badge/OpenSearch-005EB8?style=for-the-badge&logo=opensearch&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black)
 
-**Observability & Logging**  
-OpenSearch · Elasticsearch · Prometheus · Grafana · Dynatrace · New Relic · ClickHouse
+### AI Tools & Interests
+![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge)
+![Replit](https://img.shields.io/badge/Replit-F26207?style=for-the-badge&logo=replit&logoColor=white)
 
-**AI Tools & Interests**  
-ChatGPT · Claude · Gemini · Cursor · Replit · AI Agents · LLM Workflows · Prompt Engineering
-
----
-
-## 🔭 Current Areas I’m Building / Learning
-
-- Enterprise OAuth and B2B authentication platforms
-- Kubernetes-as-a-Service platform patterns
-- Helm chart standardization and GitOps automation
-- OpenSearch and ClickHouse logging architecture
-- AI-assisted DevOps automation
-- AI-powered internal developer platform ideas
-- Practical agentic workflows for engineering teams
-
----
-
-## 📌 What Makes My Work Different
-
-I care about infrastructure that is:
-
-- **Reliable** — built for production, scale, and resilience
-- **Secure** — designed with DevSecOps and governance in mind
-- **Reusable** — standardized through templates, modules, and automation
-- **Developer-friendly** — easy for application teams to consume
-- **AI-enhanced** — improved through modern AI tools and intelligent automation
+</div>
 
 ---
 
-## 🌱 Long-Term Direction
+## 📈 GitHub Snapshot
 
-I’m growing toward becoming a **Principal-level Platform Engineer** who can lead cloud-native platform strategy, DevSecOps adoption, and AI-enabled engineering transformation.
+<div align="center">
 
-I believe the next generation of infrastructure engineers will not only manage cloud platforms — they will also know how to use AI to design, operate, secure, and scale those platforms more intelligently.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vviswaroop&show_icons=true&hide_border=true&theme=transparent)
 
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vviswaroop&layout=compact&hide_border=true&theme=transparent)
 
-## 📫 Connect With Me
-
-- GitHub: [@vviswaroop](https://github.com/vviswaroop)
-- Email: hello@viswaroop.dev
+</div>
 
 ---
 
-> Building secure cloud platforms and exploring how AI can transform the future of infrastructure engineering.
+<div align="center">
+
+### 🚀 Building secure cloud platforms. Exploring AI-native infrastructure engineering.
+
+![Profile Views](https://komarev.com/ghpvc/?username=vviswaroop&style=for-the-badge)
+
+</div>
