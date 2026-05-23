@@ -2,9 +2,9 @@
 
 # 👋 Hi, I'm Viswaroop Vadlamudi
 
-### Platform Engineering · DevSecOps · Cloud Infrastructure · AI-Native Automation
+### Platform Engineering · DevSecOps · Identity Platforms · Cloud Infrastructure · AI-Native Automation
 
-I build secure, scalable, developer-friendly platforms — and I’m exploring how AI can transform the way infrastructure is designed, automated, operated, and secured.
+I build secure, scalable, developer-friendly platforms across cloud infrastructure, DevSecOps, and identity systems — while exploring how AI can transform the way engineering platforms are designed, automated, operated, and secured.
 
 <br />
 
@@ -18,7 +18,7 @@ I build secure, scalable, developer-friendly platforms — and I’m exploring h
 
 ## 🧭 About Me
 
-I’m a **Platform, DevOps, and DevSecOps Engineer** with hands-on experience across **AWS, Kubernetes, GitOps, CI/CD, security automation, and observability**.
+I’m a **Platform, DevOps, and DevSecOps Engineer** with hands-on experience across **AWS, Kubernetes, GitOps, CI/CD, identity platforms, security automation, and observability**.
 
 What makes my current journey different is my focus on becoming an **AI-native infrastructure engineer** — someone who not only understands cloud platforms deeply, but also knows how to use **LLMs, automation agents, and AI-assisted workflows** to make engineering teams faster, safer, and more effective.
 
@@ -41,8 +41,18 @@ I’m focused on applying AI practically inside platform engineering — not as 
   </tr>
   <tr>
     <td width="50%">
+      <h3>🔑 Identity Platforms</h3>
+      <p>Architecting OAuth2-based B2B identity systems for secure API access, client onboarding, token flows, and long-term platform extensibility.</p>
+    </td>
+    <td width="50%">
       <h3>🤖 AI-Native Automation</h3>
       <p>Exploring practical AI workflows for infrastructure generation, documentation, troubleshooting, platform operations, and developer productivity.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🏗️ Software Architecture</h3>
+      <p>Thinking through service boundaries, platform ownership, API design, reliability, scalability, operational models, and developer experience.</p>
     </td>
     <td width="50%">
       <h3>🚀 GitOps & Reliability</h3>
@@ -72,10 +82,18 @@ I’m focused on applying AI practically inside platform engineering — not as 
 
 ### DevSecOps, Identity & Observability
 ![Ory Hydra](https://img.shields.io/badge/Ory%20Hydra-5522FA?style=for-the-badge)
+![OAuth2](https://img.shields.io/badge/OAuth2-111827?style=for-the-badge)
+![OpenID Connect](https://img.shields.io/badge/OpenID%20Connect-F78C40?style=for-the-badge)
 ![OpenSearch](https://img.shields.io/badge/OpenSearch-005EB8?style=for-the-badge&logo=opensearch&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black)
+
+### Software Development & Architecture
+![API Design](https://img.shields.io/badge/API%20Design-2563EB?style=for-the-badge)
+![System Design](https://img.shields.io/badge/System%20Design-0F766E?style=for-the-badge)
+![Backend Services](https://img.shields.io/badge/Backend%20Services-7C2D12?style=for-the-badge)
+![Platform Architecture](https://img.shields.io/badge/Platform%20Architecture-581C87?style=for-the-badge)
 
 </div>
 
@@ -103,6 +121,37 @@ I’m focused on applying AI practically inside platform engineering — not as 
 
 ---
 
+## 🧱 Software Engineering & Identity Platform Architecture
+
+Beyond infrastructure and DevSecOps, I’m also interested in **software development, system design, and platform architecture** — especially in the identity and access management space.
+
+I’m currently focused on architecting and building an **enterprise B2B identity platform** that supports secure API access, OAuth2-based authentication, client onboarding, token management, and future self-service capabilities.
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🔑 Identity Platform</h3>
+      <p>Designing OAuth2-based systems for B2B API access, client credentials, token flows, secrets management, and secure customer onboarding.</p>
+    </td>
+    <td width="50%">
+      <h3>🏗️ System Architecture</h3>
+      <p>Thinking through platform boundaries, service ownership, API design, operational models, scalability, reliability, and long-term extensibility.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>💻 Software Development</h3>
+      <p>Building practical engineering solutions using APIs, automation, backend services, scripting, integration workflows, and developer-facing tooling.</p>
+    </td>
+    <td width="50%">
+      <h3>👥 Technical Leadership</h3>
+      <p>Leading platform initiatives from idea to implementation by connecting architecture, security, infrastructure, operations, and developer experience.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 🔭 Current Focus Areas
 
 ```yaml
@@ -117,6 +166,18 @@ devsecops:
   - OAuth2 and identity platforms
   - Secrets management
   - Policy and governance automation
+
+identity_platforms:
+  - Enterprise B2B authentication
+  - OAuth2 client credentials flow
+  - Token lifecycle and platform security
+  - Self-service client onboarding
+
+software_architecture:
+  - API design
+  - Service boundaries
+  - Platform extensibility
+  - Operational ownership models
 
 ai_native_engineering:
   - AI-assisted DevOps workflows
