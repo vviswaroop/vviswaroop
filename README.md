@@ -1,5 +1,9 @@
 <div align="center">
 
+<img src="header.svg" width="800" alt="Viswaroop's Platform Terminal" />
+
+<br />
+
 # 👋 Hi, I'm Viswaroop Vadlamudi
 
 ### Platform Engineering · DevSecOps · Identity Platforms · Cloud Infrastructure · AI-Native Automation
@@ -8,6 +12,7 @@ I build secure, scalable, developer-friendly platforms across cloud infrastructu
 
 <br />
 
+[![Website](https://img.shields.io/badge/Website-viswaroop.dev-00C2FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://viswaroop.dev)
 [![GitHub](https://img.shields.io/badge/GitHub-vviswaroop-181717?style=for-the-badge&logo=github)](https://github.com/vviswaroop)
 [![Email](https://img.shields.io/badge/Email-hello%40viswaroop.dev-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@viswaroop.dev)
 [![Focus](https://img.shields.io/badge/Focus-AI--Native%20Platform%20Engineering-7c3aed?style=for-the-badge)](#)
@@ -189,3 +194,11 @@ observability:
   - OpenSearch logging architecture
   - ClickHouse logging exploration
   - Metrics, dashboards, and operational insights
+
+## 🔗 Connect & Explore
+
+* 🌐 **Personal Website**: [viswaroop.dev](https://viswaroop.dev) &mdash; Explore my custom systems designs and architectural blueprints.
+* ✍️ **Blog & Deep Dives**: [viswaroop.dev/blog](https://viswaroop.dev/blog) &mdash; Inside stories on why AI infrastructure breaks, ORY identity integrations, and Kubernetes at scale.
+
+
+
