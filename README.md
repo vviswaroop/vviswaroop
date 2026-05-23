@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Viswaroop Vadlamudi
 
-### AI-Native Platform Engineer · DevOps · DevSecOps · Cloud Infrastructure
+### Platform Engineering · DevSecOps · Cloud Infrastructure · AI-Native Automation
 
 I build secure, scalable, developer-friendly platforms — and I’m exploring how AI can transform the way infrastructure is designed, automated, operated, and secured.
 
@@ -10,7 +10,7 @@ I build secure, scalable, developer-friendly platforms — and I’m exploring h
 
 [![GitHub](https://img.shields.io/badge/GitHub-vviswaroop-181717?style=for-the-badge&logo=github)](https://github.com/vviswaroop)
 [![Email](https://img.shields.io/badge/Email-hello%40viswaroop.dev-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@viswaroop.dev)
-[![Focus](https://img.shields.io/badge/Focus-AI%20%2B%20Platform%20Engineering-7c3aed?style=for-the-badge)](#)
+[![Focus](https://img.shields.io/badge/Focus-AI--Native%20Platform%20Engineering-7c3aed?style=for-the-badge)](#)
 
 </div>
 
@@ -20,17 +20,9 @@ I build secure, scalable, developer-friendly platforms — and I’m exploring h
 
 I’m a **Platform, DevOps, and DevSecOps Engineer** with hands-on experience across **AWS, Kubernetes, GitOps, CI/CD, security automation, and observability**.
 
-What makes my current journey different: I’m actively building toward becoming an **AI-native infrastructure engineer** — someone who not only understands cloud platforms deeply, but also knows how to use **AI tools, LLMs, and automation agents** to make engineering teams faster, safer, and more effective.
+What makes my current journey different is my focus on becoming an **AI-native infrastructure engineer** — someone who not only understands cloud platforms deeply, but also knows how to use **LLMs, automation agents, and AI-assisted workflows** to make engineering teams faster, safer, and more effective.
 
-I’m especially interested in applying AI to:
-
-- Infrastructure automation
-- DevSecOps workflows
-- CI/CD optimization
-- Documentation and runbooks
-- Incident troubleshooting
-- Internal developer platforms
-- Cloud reliability and cost intelligence
+I’m focused on applying AI practically inside platform engineering — not as a replacement for engineering judgment, but as a force multiplier for automation, documentation, troubleshooting, security reviews, and developer experience.
 
 ---
 
@@ -85,15 +77,21 @@ I’m especially interested in applying AI to:
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black)
 
-### AI-Native Engineering Focus
+</div>
 
-![LLMs](https://img.shields.io/badge/LLM%20Workflows-111827?style=for-the-badge)
+---
+
+## 🤖 AI-Native Engineering Focus
+
+<div align="center">
+
+![LLM Workflows](https://img.shields.io/badge/LLM%20Workflows-111827?style=for-the-badge)
 ![AI Automation](https://img.shields.io/badge/AI%20Automation-4F46E5?style=for-the-badge)
 ![Agentic Systems](https://img.shields.io/badge/Agentic%20Systems-7C3AED?style=for-the-badge)
 ![Platform Intelligence](https://img.shields.io/badge/Platform%20Intelligence-0F766E?style=for-the-badge)
-![AI Assisted DevOps](https://img.shields.io/badge/AI--Assisted%20DevOps-DC2626?style=for-the-badge)
+![AI-Assisted DevOps](https://img.shields.io/badge/AI--Assisted%20DevOps-DC2626?style=for-the-badge)
 
-<br />
+</div>
 
 **Areas I’m exploring and applying:**
 
@@ -103,26 +101,30 @@ I’m especially interested in applying AI to:
 - AI-enhanced internal developer platforms
 - Secure and governed adoption of AI in engineering workflows
 
-</div>
-
 ---
 
-## 📈 GitHub Snapshot
+## 🔭 Current Focus Areas
 
-<div align="center">
+```yaml
+platform_engineering:
+  - Kubernetes-as-a-Service patterns
+  - Internal developer platforms
+  - GitOps-based delivery models
+  - Helm and Kustomize standardization
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vviswaroop&show_icons=true&hide_border=true&theme=transparent)
+devsecops:
+  - Secure CI/CD workflows
+  - OAuth2 and identity platforms
+  - Secrets management
+  - Policy and governance automation
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vviswaroop&layout=compact&hide_border=true&theme=transparent)
+ai_native_engineering:
+  - AI-assisted DevOps workflows
+  - Agentic infrastructure automation
+  - LLM-powered documentation and runbooks
+  - AI-assisted troubleshooting and incident response
 
-</div>
-
----
-
-<div align="center">
-
-### 🚀 Building secure cloud platforms. Exploring AI-native infrastructure engineering.
-
-![Profile Views](https://komarev.com/ghpvc/?username=vviswaroop&style=for-the-badge)
-
-</div>
+observability:
+  - OpenSearch logging architecture
+  - ClickHouse logging exploration
+  - Metrics, dashboards, and operational insights
